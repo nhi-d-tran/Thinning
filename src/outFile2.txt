@@ -1,0 +1,96 @@
+cycleCount = 0
+                1                 
+              1 1 1               
+            1 1 1 1 1             
+          1 1 1 1 1 1 1           
+        1 1 1 1 1 1 1 1 1         
+      1 1 1 1 1 1 1 1 1 1 1       
+    1 1 1 1 1 1 1 1 1 1 1 1 1     
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1   
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1   
+    1 1 1 1 1 1 1 1 1 1 1 1 1     
+      1 1 1 1 1 1 1 1 1 1 1       
+        1 1 1 1 1 1 1 1 1         
+          1 1 1 1 1 1 1           
+            1 1 1 1 1             
+              1 1 1               
+                1                 
+
+North thinning
+South thinning
+West thinning
+East thinning
+North thinning
+South thinning
+West thinning
+East thinning
+cycleCount = 2
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+              1 1 1               
+            1 1 1 1 1             
+          1 1 1 1 1 1 1           
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+          1 1 1 1 1 1 1           
+            1 1 1 1 1             
+              1 1 1               
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+
+North thinning
+South thinning
+West thinning
+East thinning
+North thinning
+South thinning
+West thinning
+East thinning
+cycleCount = 4
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+
+North thinning
+South thinning
+West thinning
+East thinning
+cycleCount = 5
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+                1                 
+
